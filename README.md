@@ -9,7 +9,7 @@
 
 #### 🔧What we use
 
-[![](https://img.shields.io/badge/WebStorm-前端-07c3f2)](https://www.jetbrains.com/zh-cn/webstorm/)
+[![](https://img.shields.io/badge/WebStorm-07c3f2)](https://www.jetbrains.com/zh-cn/webstorm/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Framer](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff)](#)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](#)

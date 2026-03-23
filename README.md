@@ -1,7 +1,5 @@
 **Your cap'n speaking here. Good day ya a check this page, eh?**
 
-<br/>
-
 #### 💻Where we work on
 
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)

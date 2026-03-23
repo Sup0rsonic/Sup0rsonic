@@ -9,7 +9,7 @@
 
 #### 🔧What we use
 
-[![](https://img.shields.io/badge/WebStorm-前端-07c3f2?style=flat-square&logo=WebStorm&labelColor=ffffff&logoColor=000000)](https://www.jetbrains.com/zh-cn/webstorm/)
+[![](https://img.shields.io/badge/WebStorm-前端-07c3f2)](https://www.jetbrains.com/zh-cn/webstorm/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Framer](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff)](#)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](#)
@@ -28,7 +28,6 @@
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 Mostly per se.
 
